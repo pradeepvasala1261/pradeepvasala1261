@@ -98,15 +98,6 @@ I enjoy turning complex problems into clean, efficient, and user-friendly produc
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
-</p>
-
----
-
 ## 🌱 Currently Learning
 
 - Advanced MERN Architecture
@@ -119,9 +110,9 @@ I enjoy turning complex problems into clean, efficient, and user-friendly produc
 
 ## 🤝 Let's Connect
 
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK
-- 🌐 Portfolio: https://your-portfolio.com
-- 📧 Email: yourpersonalemail@gmail.com
+- 💼 LinkedIn: https://linkedin.com/in/devi-pradeep-vasala-90a1a920a/
+- 🌐 Portfolio: 
+- 📧 Email: vdpradeep11@gmail.com
 
 ---
 
