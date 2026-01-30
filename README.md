@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pradeepvasala1261
 - 👀 I’m interested in CYBER SECURITY and ARTIFICIAL INTELLIGENCE & MACHINE LEARNING
-- 🌱 I’m currently pursuing b.tech INFORMATION TECHNOLOGY(under graduation)
+- 🌱 I’m  a B.Tech INFORMATION TECHNOLOGY(IT) Graduate
 - 💞️ I’m looking to collaborate on data science projects
 - 📫 How to reach me vdpradeep11@gmail.com
 
